@@ -47,8 +47,6 @@ Offriamo regolarmente corsi e workshop su:
 * Programmazione  Coding pratico per maker
 * Hardware Open Source: Sviluppo e replica
 
-# 📅 Consulta il calendario eventi
-
 # 🤝 Comunità e Collaborazione
 
 Unisciti alla Nostra Comunità
@@ -57,6 +55,7 @@ Unisciti alla Nostra Comunità
 
 💬 Telegram: [Unisciti al nostro canale](https://t.me/+SOnOrOqT_KGYi2WC)
 🌐 Sito Web: [www.fablabbergamo.it](https://www.fablabbergamo.it)
+📅 Consulta il calendario eventi sul nostro sito.
 
 ## Collabora Con Noi
 
