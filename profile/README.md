@@ -27,7 +27,7 @@ Raspberry Pi 5 con rilevamento giocatori basato su AI e bambola animata controll
 
 `Python` `Raspberry Pi 5` `ESP32` `Computer Vision`
 
-### [Contatore Geiger](https://github.com/fablab-bergamo/geiger-counter) — Rilevamento Radiazioni
+### [Contatore Geiger](https://github.com/fablab-bergamo/contatore-geiger) — Rilevamento Radiazioni
 
 Kit contatore Geiger potenziato con ESP32, elaborazione dati, medie mobili e display visivi.
 
