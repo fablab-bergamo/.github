@@ -65,4 +65,4 @@ Corso completo di programmazione Python con slide e notebook Colab. **In corso.*
 
 FabLab Bergamo APS è un'associazione senza scopo di lucro. Il tuo sostegno ci aiuta a mantenere le attrezzature, offrire corsi accessibili e supportare progetti comunitari.
 
-**Come:** Diventa socio · Dona tramite 5x1000 · Sponsorizza progetti o attrezzature
+**Come:** [Diventa socio](https://www.fablabbergamo.it/associarsi/) · [Dona tramite 5x1000](https://www.fablabbergamo.it/2026/02/09/dona-il-tuo-5x1000-a-fablab-bergamo-sostieni-innovazione-formazione-e-comunita/) · [Sponsorizza progetti o attrezzature](https://www.fablabbergamo.it/sostieni-fablab-bergamo/)
